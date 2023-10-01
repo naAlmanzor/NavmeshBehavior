@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 769751609972775268}
   - component: {fileID: 144329840948964169}
   - component: {fileID: 4267671261707748124}
+  - component: {fileID: 4004174233276260908}
   m_Layer: 7
   m_Name: AgentAI
   m_TagString: Untagged
@@ -161,3 +162,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   target: {fileID: 0}
   fleeDistance: 5
+--- !u!114 &4004174233276260908
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4691568422373223188}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1f04fefa0e8efd4b996769147ada623, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
